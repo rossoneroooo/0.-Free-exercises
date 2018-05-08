@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BGN-to-EUR-Converter", "BGN-to-EUR-Converter\BGN-to-EUR-Converter.csproj", "{5669CA08-C856-4743-9FA4-E7526AA38733}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Catch the Butom", "Catch the Butom\Catch the Butom.csproj", "{1F790105-3DEA-47C1-8AAA-CDD603DED74F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5669CA08-C856-4743-9FA4-E7526AA38733}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5669CA08-C856-4743-9FA4-E7526AA38733}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5669CA08-C856-4743-9FA4-E7526AA38733}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5669CA08-C856-4743-9FA4-E7526AA38733}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F790105-3DEA-47C1-8AAA-CDD603DED74F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F790105-3DEA-47C1-8AAA-CDD603DED74F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F790105-3DEA-47C1-8AAA-CDD603DED74F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F790105-3DEA-47C1-8AAA-CDD603DED74F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
